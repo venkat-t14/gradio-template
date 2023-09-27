@@ -1,0 +1,4 @@
+test_*
+svc_acc.json
+*.pyc
+__pycache__

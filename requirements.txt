@@ -1,0 +1,16 @@
+gradio==3.40.*
+pandas
+pandasql
+fastapi
+pydantic==1.*
+sseclient-py
+requests
+langchain
+openai
+tiktoken
+qdrant-client
+plotly
+google-cloud-storage
+sentry-sdk[fastapi]
+gunicorn
+uvicorn[standard]

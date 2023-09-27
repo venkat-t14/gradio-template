@@ -1,0 +1,5 @@
+*.sh
+*.pyc
+__pycache__
+.git
+test_*
